@@ -19,6 +19,7 @@ All actors are intended to spawn in a single machine for linear parallelism but 
 1.	For linear parallelism we could just run the single server.erl file and get the hashed coins or mined coins .
 
 2.	But, for distributed parallelism  the steps are listed below.
+
 •	Run the server on server system using server.erl
 
 •	Then run the client using client.erl and request for connection to server
