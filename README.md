@@ -33,7 +33,7 @@ The work unit of our program is in range of 1000000 and 100000000. There is no l
 
 The following hashed strings were generated as a result of distributed parallelism between the master and workers for the input - 4
 
-bash
+```bash
 (jag@Jag)1> c(server).
 {ok,server}
 (jag@Jag)2> server:start(4).
@@ -53,6 +53,7 @@ d8890a02dc98"
 d9eca5129f"
 (jag@Jag)3> "jagan" random_String: "jaganqv8v3tzjvp4w9j2z", Zeroes for Hashing is  4   Hashed Data is:  "000050849d52f4351c1b9bfcf87d160c58ca0cea2c43c2bceab5201f
 26d13522"
+```
 
 ## Running time
 
