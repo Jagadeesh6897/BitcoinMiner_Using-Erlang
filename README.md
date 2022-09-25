@@ -59,16 +59,17 @@ d9eca5129f"
 
 To calculate the resource utilization, statistics(runtime) and statistics(wallclock_time) are used.
 
-bash
+```bash
 CPU time  :  24672 ms
 Real time :  6147 ms
 Ratio : 4.013 
+```
 
 ## Coin with most zeros
 
 The following hashed strings were created for the most number of zeros - 7
 
-bash
+```bash
 (yeshi@Yeshi)4> server:start(7).
 client connection established and started mining for <8809.96.0>
 the string is "yeshidjq2x3578bj1rgdiwxeoya1e0fjjqs7l"   and hashed string is  "0000000f1f9f22f43f95e835bc72fc4f34b26a06b9f86e1020c0abbe2e46645b"
@@ -76,6 +77,7 @@ the string is "yeshi6bo6lti3rzlved47zpaskbjn5lgn37q6"   and hashed string is  "0
 the string is "yeship97o16x5w8jgn5wcy0v99045igk5vh4l"   and hashed string is  "0000000a510af32b3e18f163f7c688c401074e57f68fd2332df85f2d607391b3"
 the string is "yeship6c6np7sh45hrdj3sav0hlyvgcwb26pw"   and hashed string is  "0000000d55a161b571eb173bed9e11c49e16f924b007cf558d26b5ad88b2d66c"
 the string is "yeshi764cnoyezjkse7vlm141j9puged15iip"   and hashed string is  "0000000538900c7e187c0e5bcc026aac6f9690dbdc98672a45d4cb1113a706f4"
+```
 
 ## Largest number of working machines on which the code was run
 
